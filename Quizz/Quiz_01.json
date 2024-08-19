@@ -1,0 +1,37 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": [
+        "Oxygen",
+        "Gold",
+        "Silver",
+        "Iron"
+      ],
+      "answer": "Oxygen"
+    }
+  ]
+}
